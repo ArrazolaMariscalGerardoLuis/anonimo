@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
+PROJECT TITLE: Laberinto
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+VERSION or DATE: 02
+HOW TO START THIS PROJECT: EJECUTAR MAIN DE LA CLASE INICIO
+AUTHORS: GRUPO ANONIMO
 USER INSTRUCTIONS:
